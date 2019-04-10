@@ -1,0 +1,1 @@
+This server socket programs are a layout for simple message passing system in cmd/terminals.
